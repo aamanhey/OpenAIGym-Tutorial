@@ -10,5 +10,3 @@ After the dependencies are installed you will be able to run the main python fil
 This file houses the code for the brute force and Q-learning implementations.
 If one wishes to view only one of the implementations, then all you must do is remove the function calls of the other algorithm.
 The __evaluate.py__ file was used to generate the evaluation metrics for both implementations.
-
-https://github.com/satwikkansal/q-learning-taxi-v3
